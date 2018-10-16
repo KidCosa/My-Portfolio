@@ -1,0 +1,30 @@
+.jumbotron {
+    text-align: center;
+}
+
+.Isaac {
+    display: block;
+    margin: 0 auto;
+    height: 180px;
+}
+
+#info {
+    text-align: center;
+}
+
+#bio {
+    text-align: center;
+}
+
+#intro {
+    font-size: 20px;
+}
+
+#project {
+    text-align: center;
+}
+
+.projectImg {
+    height: 400px;
+    width: 400px;
+}
